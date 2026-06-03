@@ -44,6 +44,7 @@ def main():
 
     print("[3/6] Mission Alignment...")
     role_analysis.mission_alignment = generate_mission_alignment(
+        company_name,
         company_overview.mission,
         role_title,
         role_analysis.responsibilities
@@ -122,6 +123,7 @@ if __name__ == "__main__":
 
         print("[3/6] Mission Alignment...")
         role_analysis.mission_alignment = generate_mission_alignment(
+            company_name,
             company_overview.mission,
             role_title,
             role_analysis.responsibilities

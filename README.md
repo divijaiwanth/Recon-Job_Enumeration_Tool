@@ -15,6 +15,7 @@ System Arch
 ## Key Features
 - **Autonomous Company Scraping**: Dynamically discovers XML sitemaps and scrapes company websites to extract Mission, Products, Launches, and Hiring Signals.
 - **JD & Resume Analysis**: Evaluates resume-to-JD match scores, identifies missing skills, and checks role competencies.
+- **Dynamic Research Configuration**: Uses `job_sources.json` to configure target domains (e.g., Reddit, LinkedIn, Glassdoor) and automatically perform real-time web searches to ground the AI with live context, drastically reducing hallucinations.
 - **Local AI Processing**: Uses Ollama (defaulting to the highly efficient `phi3:latest`) for fast, secure, and cost-free local text analysis.
 - **Strict Data Validation**: Utilizes Pydantic schemas to ensure all AI outputs are heavily structured and strictly typed.
 - **Rich Markdown Reports**: Automatically generates beautifully formatted `.md` and `.json` reports containing role alignment, team size estimates, and historically repeated interview questions.

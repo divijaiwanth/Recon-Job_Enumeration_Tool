@@ -1,7 +1,6 @@
 from serpapi import GoogleSearch
-from Utils.config import (SERP_API_KEY)
-
-
+from Utils.config import SERP_API_KEY
+import time
 def search_google(
     query: str,
     num_results: int = 10
@@ -104,3 +103,28 @@ def search_dsa(
     return search_google(
         query
     )
+
+def search_with_sources(base_query: str, sources: list[str], max_results_per_source: int = 3):
+    """
+    Executes multiple Google searches by appending each source to the base query.
+    Aggregates the top snippets into a single text block.
+    """
+    aggregated_snippets = []
+    
+    for source in sources:
+        query = f"{base_query} {source}"
+        # Print so user can see it's doing real searches
+        print(f"  [Search] {query}")
+        try:
+            results = search_google(query, num_results=max_results_per_source)
+            for res in results:
+                snippet = res.get("snippet", "")
+                if snippet:
+                    aggregated_snippets.append(f"Source ({source}): {snippet}")
+            # Small delay to avoid API rate limits if applicable
+            time.sleep(0.5)
+        except Exception as e:
+            print(f"  [Search Error] {e}")
+            continue
+            
+    return "\n".join(aggregated_snippets)
