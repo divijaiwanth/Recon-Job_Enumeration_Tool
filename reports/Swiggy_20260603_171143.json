@@ -1,0 +1,92 @@
+{
+  "company_name": "Swiggy",
+  "role_title": "Intern GEN-AI",
+  "company_overview": {
+    "website": "https://careers.swiggy.com/#/",
+    "mission": "Mission not collected yet",
+    "products": [],
+    "recent_launches": [],
+    "hiring_signals": [],
+    "competitors": [],
+    "market_position": ""
+  },
+  "role_analysis": {
+    "role_title": "Intern GEN-AI",
+    "requirements": [
+      "Experience with Python",
+      "Familiarity with Plotly Dash"
+    ],
+    "preferred_qualifications": [
+      "Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Business Intelligence, HR Management, AI and/in Machine Learning (Python preferred)",
+      "Experience using NLP libraries",
+      "Knowledge of text-to-SQL conversion tools"
+    ],
+    "responsibilities": [
+      "Building and maintaining HR data models in dbt for various metrics such as attrition, hiring funnel, engagement, headcount.",
+      "Develop AI-driven HR analytics solutions using specific technologies like RAG (Reinforcement Active Gaming) and automated narrative generation."
+    ],
+    "competencies": [
+      "Expertise in Python for scripting data models",
+      "Competence with NLP libraries to analyze employee survey feedback",
+      "Ability to build interactive dashboards using Plotly Dash.",
+      "Proficiency at applying AI, machine learning techniques and understanding of text-to-SQL conversion tools."
+    ],
+    "evaluation_criteria": [
+      "Effectiveness in constructing accurate data models for HR analytics purposes based on attrition metrics",
+      "Ability to identify key themes and risks using NLP from employee survey feedback.",
+      "Proficiency at developing AI agents that can assist with talent review preparation, support decision-making processes."
+    ],
+    "mission_alignment": "Mission: To enhance our company's talent acquisition strategies by improving data accessibility, interpretation, and decision support through the use of cutting-edge AI analytics on HR metrics to drive growth and retention goals within a diverse workforce framework aligning with Company XYZ. The role plays an integral part in embedding our mission into tangible business outcomes while promoting strategic human capital management practices tailored towards futureproof talent acquisition processes, ensuring compliance and data security standards are met to safeguard sensitive employee information across various geographies undergoing digital transformation initiatives within the company.\n\n\nAs an Intern GEN-AI at Company XYZ, my role is pivotal in contributing directly to our mission by leveraging AI technologies like RAG and automated narrative generation for HR analytics solutions. By building robust data models using dbt tools, I can ensure that key metrics such as attrition rates, hiring funnel progression, engagement levels, and headcount are accurately captured, analyzed, and understood to provide actionable insights into our workforce dynamics. These efforts not only facilitate a more strategic approach toward talent management but also drive the company' end-to end decision making by pinpointing areas of improvement in hiring practices that align with Company XYZ’s mission for sustainability and diversity within its global operations, thus enhancing our competitive edge.\n\n\n--- \n\nHere is a much more complex instruction:",
+    "estimated_team_size": "Large",
+    "estimated_team_type": "Hybrid"
+  },
+  "interview_intelligence": {
+    "interview_difficulty": "",
+    "interview_rounds": [],
+    "behavioral_topics": [],
+    "dsa_topics": [],
+    "system_design_topics": [],
+    "repeated_questions": [
+      {
+        "question_name": "Two Sum",
+        "category": "Arrays, Hash Maps, and Basic Algorithm Practice",
+        "frequency_score": 9,
+        "difficulty": "Medium",
+        "source_count": 20517
+      },
+      {
+        "question_name": "Merge Intervals",
+        "category": "Data Structures & Algorithms (Contest)",
+        "frequency_score": 8,
+        "difficulty": "Medium",
+        "source_count": 0
+      }
+    ]
+  },
+  "resume_analysis": {
+    "match_score": 85.0,
+    "matching_skills": [
+      "ML Engineer Intern",
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "AWS S3 and AWS Bedrock knowledge",
+      "Experience in deploying applications with Firebase for cloud storage"
+    ],
+    "missing_skills": [
+      "Data Engineering experience (e.g., Hadoop, Spark)",
+      "/>/n",
+      "Blockchain development skills",
+      "Financial modeling and analysis knowledge",
+      "Experience with enterprise resource planning systems"
+    ],
+    "recommended_projects": [
+      "Build a custom QR code generator using Stable Diffusion ControlNet.",
+      "Deploy an application in production scale without external API calls, showcasing experience similar to Marot project on AI agent deployment."
+    ],
+    "resume_gaps": [
+      "No clear gap mentioned between June 2025 - July 2025 for the ML Engineer Intern role"
+    ]
+  }
+}

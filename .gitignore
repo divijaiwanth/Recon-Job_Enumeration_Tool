@@ -1,0 +1,19 @@
+# Dataset
+Resumes&JD/
+
+# Indexes
+*.index
+*.pkl
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

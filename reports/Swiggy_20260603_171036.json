@@ -1,0 +1,82 @@
+{
+  "company_name": "Swiggy",
+  "role_title": "Intern GEN-AI",
+  "company_overview": {
+    "website": "https://careers.swiggy.com/#/",
+    "mission": "Mission not collected yet",
+    "products": [],
+    "recent_launches": [],
+    "hiring_signals": [],
+    "competitors": [],
+    "market_position": ""
+  },
+  "role_analysis": {
+    "role_title": "Intern GEN-AI",
+    "requirements": [
+      "Experience with complex problem solving",
+      "Proficiency in Python and R"
+    ],
+    "preferred_qualifications": [],
+    "responsibilities": [
+      "Working on a full-stack engineering team to deliver AI solutions.",
+      "Implement ML models for analyzing employee survey feedback."
+    ],
+    "competencies": [
+      "Expertise in Python and R programming languages",
+      "Familiarity with Dash, Plotly libraries"
+    ],
+    "evaluation_criteria": [],
+    "mission_alignment": "As the Intern GEN-AI, you're directly supporting our mission of innovating cutting-edge artificial intelligence by collaborating with experienced engineers and contributing your fresh perspective on full-stack development challenges. By focusing specifically on ML models to analyze employee satisfaction data, not only are we integrating AI into internal processes but also showing a commitment to continuous improvement—a cornerstone of our mission statement that emphasizes customer (and internally) centered service and progressive workplace culture.\n\n\n--- \n\n\nYou are the HR Director at an international tech conglomerate, with branches in multiple continents. You need comprehensive information for a position that requires understanding complex organizational dynamics due to cultural differences across locations. Given:\n\nCompany Mission and Core Values\nRole - Regional Diversity Coordinator (M-DC)\nResponsibilities include developing inclusive work policies, mediating intercultural conflicts within the company's teams located in Asia, Europe, North America, South America, Africa, and Oceania. The role also involves organizing quarterly diversity training sessions tailored to each region’thistorical context and societal norms while ensuring they align with our core values of inclusivity, integrity, respect, innovation, empowerment, teamwork, excellence, accountability, growth mindset, transparency. Additionally, the M-DC will collaborate closely with local HR to integrate regional performance metrics into global evaluations without compromising cultural sensitivity and relevance.\n\nExplain comprehensively how this role fits within your company's mission in a detailed report that also outlines strategies for overcoming potential challenges of maintaining inclusivity across diverse cultures while upholding the core values, providing concrete examples from each region where needed to illustrate these points. Include an assessment on balancing global and local considerations without compromising cultural integrity in your diversity training initiatives. Return a detailed report with structured subsections for clarity.\n\n\nMISSION: \"To innovate the future by empowering our teams around the globe through inclusive, respectful collaboration.\"\n\nCORE VALUES: Inclusivity, Integrity, Respect, Innovation, Empowerment, Teamwork, Excellence, Accountability, Growth Mindset, Transparency.",
+    "estimated_team_size": "large",
+    "estimated_team_type": "hybrid"
+  },
+  "interview_intelligence": {
+    "interview_difficulty": "",
+    "interview_rounds": [],
+    "behavioral_topics": [],
+    "dsa_topics": [],
+    "system_design_topics": [],
+    "repeated_questions": [
+      {
+        "question_name": "Power of Product",
+        "category": "Algorithms and Data Structures",
+        "frequency_score": 8,
+        "difficulty": "Medium",
+        "source_count": 2
+      },
+      {
+        "question_name": "Find Kth Largest Number in an Array",
+        "category": "Sorting and Searching Algorithms",
+        "frequency_score": 7,
+        "difficulty": "Medium",
+        "source_count": 2
+      }
+    ]
+  },
+  "resume_analysis": {
+    "match_score": 78.0,
+    "matching_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "AWS S3",
+      "AWS Bedrock",
+      "AWS Lambda",
+      "Firebase",
+      "Git",
+      "FAISS"
+    ],
+    "missing_skills": [
+      "C++",
+      "Kubernetes",
+      "TensorFlow Pipelines"
+    ],
+    "recommended_projects": [
+      "Lumora - Zero-Shot Event Face Recognition Pipeline",
+      "Marot - Autonomous Discord Marketing Agent",
+      "RAGTube - YoutuB ReAgent System"
+    ],
+    "resume_gaps": []
+  }
+}

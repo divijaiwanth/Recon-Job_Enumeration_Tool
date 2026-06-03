@@ -1,0 +1,97 @@
+{
+  "company_name": "siemens",
+  "role_title": "AI ML Intern",
+  "company_overview": {
+    "website": "https://www.siemens.com/",
+    "mission": "Empowering our customers to become more sustainable, resilient and competitive by combining digital and real-world technologies at scale.",
+    "products": [
+      "Siemens Xcelerator",
+      "Solid Edge",
+      "NX software",
+      "Femap",
+      "Building X",
+      "Electrification X",
+      "Gridscale X",
+      "Movilitas Cloud"
+    ],
+    "recent_launches": [
+      "IT/OT convergence for renewable energy solutions",
+      "Siemens Impact 2025 publication",
+      "A sustainable and durable coffee bar (3D printing project)",
+      "AI-based solution to detect leaks in water management",
+      "Autonomous robot dogs for safety enhancement"
+    ],
+    "hiring_signals": [
+      "Digital transformation initiatives across various sectors",
+      "Focus on sustainability and Industry 4.0",
+      "Partnerships with technology leaders like NVIDIA",
+      "Investment in AI-driven manufacturing (Amberg factory investment)",
+      "Publication of industry reports and whitepapers"
+    ],
+    "competitors": [
+      "ABB Ltd.",
+      "General Electric Company",
+      "Schneider Electric SE"
+    ],
+    "market_position": "Siemens is a global leader in electrification, automation, and digitalization solutions, focusing on sustainable technologies for the future of industry."
+  },
+  "role_analysis": {
+    "role_title": "AI ML Intern",
+    "requirements": [
+      "Strong proficiency in at least two of the following areas: Numerical Modeling, High-Performance Computing, AI/ML",
+      "Programming skills in Python or C++ with ability to write clean, modular, and performant code"
+    ],
+    "preferred_qualifications": [
+      "Experience with parallel computing, GPU programming, or optimizing algorithms for performance",
+      "Strong understanding of deep learning frameworks",
+      "Interest in the synergy between machine learning and scientific simulations",
+      "Current B.Tech (final year), M.Tech, or Ph.D. student from any relevant discipline"
+    ],
+    "responsibilities": [],
+    "competencies": [
+      "Numerical Modeling: Strong fundamental knowledge of differential equations (ODEs/PDEs)",
+      "Programming: Writing clean, modular, and performant code for mathematical applications",
+      "AI/ML: Understanding of deep learning frameworks",
+      "High-Performance Computing: Experience with parallel computing or GPU programming"
+    ],
+    "evaluation_criteria": [
+      "Proficiency in Python or C++",
+      "Experience in at least two of the specified technical areas (Numerical Modeling, High-Performance Computing, AI/ML)",
+      "Eligibility as a current B.Tech (final year), M.Tech, or Ph.D. student"
+    ],
+    "mission_alignment": "As an AI/ML Intern, you will contribute to the company's mission by developing innovative solutions that integrate digital and real-world technologies. Your work in machine learning and artificial intelligence can help optimize processes, predict trends, and enhance decision-making for our customers, making them more sustainable, resilient, and competitive. Through projects such as data analysis, model development, and algorithm improvement, you will directly support initiatives aimed at driving efficiency and sustainability across various industries.",
+    "estimated_team_size": "",
+    "estimated_team_type": ""
+  },
+  "interview_intelligence": {
+    "interview_difficulty": "",
+    "interview_rounds": [],
+    "behavioral_topics": [],
+    "dsa_topics": [],
+    "system_design_topics": [],
+    "repeated_questions": []
+  },
+  "resume_analysis": {
+    "match_score": 65.0,
+    "matching_skills": [
+      "Python",
+      "AI/ML: Computer Vision, Face Recognition, Generative AI, RAG, Stable Diffusion, LLMs",
+      "PyTorch",
+      "FastAPI",
+      "FAISS",
+      "Vector Databases",
+      "HuggingFace Transformers"
+    ],
+    "missing_skills": [
+      "Numerical Modeling (ODEs/PDEs)",
+      "High-Performance Computing: Experience with parallel computing, GPU programming, or optimizing algorithms for performance."
+    ],
+    "recommended_projects": [
+      "A project involving numerical modeling and simulation using Python or C++",
+      "A high-performance computing project utilizing GPUs or parallel processing techniques"
+    ],
+    "resume_gaps": [
+      "No experience specifically related to Numerical Modeling or High-Performance Computing as per the job description."
+    ]
+  }
+}

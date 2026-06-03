@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+pydantic
+ollama
+python-dotenv
+firecrawl-py
+trafilatura
+google-search-results

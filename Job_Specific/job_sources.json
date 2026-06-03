@@ -1,0 +1,20 @@
+{
+  "interview_sources": [
+    "reddit",
+    "glassdoor",
+    "leetcode",
+    "github"
+  ],
+
+  "team_sources": [
+    "company engineering blog",
+    "company careers",
+    "linkedin"
+  ],
+
+  "role_sources": [
+    "job description",
+    "careers page",
+    "engineering blog"
+  ]
+}

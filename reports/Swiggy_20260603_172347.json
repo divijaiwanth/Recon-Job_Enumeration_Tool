@@ -1,0 +1,106 @@
+{
+  "company_name": "Swiggy",
+  "role_title": "Intern GEN-AI",
+  "company_overview": {
+    "website": "https://careers.swiggy.com/#/",
+    "mission": "Swiggy's mission is to create a world where everyone can enjoy the food they love from the restaurant of their choice, delivered right to their doorstep. They strive to build technology that empowers restaurants and delights customers.",
+    "products": [
+      "Food Delivery",
+      "Eats"
+    ],
+    "recent_launches": [
+      "Swiggy Dash: A platform for riders enabling them with better opportunities."
+    ],
+    "hiring_signals": [
+      "Multiple job openings across various departments including software engineering, product management, data science, and more.",
+      "A focus on building a diverse and inclusive workplace culture",
+      "Investment in employee development and growth"
+    ],
+    "competitors": [],
+    "market_position": ""
+  },
+  "role_analysis": {
+    "role_title": "Intern GEN-AI",
+    "requirements": [
+      "Good understanding of SQL and ability to work with complex data queries",
+      "Comfortable using Python and libraries like pandas for data analysis and problem-solving",
+      "Exposure to AI/LLM tools and APIs through academic projects, internships, hackathons, or personal work"
+    ],
+    "preferred_qualifications": [
+      "Strong interest in using data and analytics to understand employee trends and business challenges"
+    ],
+    "responsibilities": [
+      "Build and maintain HR data models in dbt for attrition, hiring funnel, engagement, and headcount metrics",
+      "Ensure a single, reliable source of truth for HR reporting and analytics across the organization",
+      "Design interactive dashboards in Plotly Dash to provide actionable workforce insights for HR and leadership teams",
+      "Develop AI-driven HR analytics solutions using text-to-SQL, RAG, and automated narrative generation for reports",
+      "Apply NLP and machine learning techniques to analyze employee survey feedback and identify key themes and risks",
+      "Build AI agents to support HRBPs with attrition risk analysis, talent review preparation, and workforce decision-making"
+    ],
+    "competencies": [
+      "Technical proficiency in SQL, Python, pandas",
+      "Experience with AI/LLM tools and APIs",
+      "Interest in data-driven solutions for business challenges",
+      "Ability to develop HR data models using dbt",
+      "Skills in creating interactive dashboards with Plotly Dash",
+      "Knowledge of NLP and machine learning techniques"
+    ],
+    "evaluation_criteria": [
+      "Experience working with complex SQL queries and Python libraries like pandas",
+      "Demonstrated exposure to AI/LLM tools through projects or internships",
+      "Interest and ability in developing HR data models and dashboards",
+      "Competence in applying NLP and machine learning for employee analysis"
+    ],
+    "mission_alignment": "As an Intern GEN-AI at Swiggy, your role significantly contributes to the company's mission by leveraging advanced analytics and artificial intelligence to empower both employees and management. By building robust data models and interactive dashboards, you ensure that HR teams have accurate insights into employee engagement, attrition rates, and hiring trends, enabling them to make informed decisions that enhance workforce satisfaction and productivity. Your AI-driven solutions help in analyzing employee feedback and predicting attrition risks, thereby improving the overall customer experience by retaining talent and supporting restaurants. This directly aligns with Swiggy's mission of delighting customers and empowering restaurants through innovative technology solutions.",
+    "estimated_team_size": "",
+    "estimated_team_type": ""
+  },
+  "interview_intelligence": {
+    "interview_difficulty": "",
+    "interview_rounds": [],
+    "behavioral_topics": [],
+    "dsa_topics": [],
+    "system_design_topics": [],
+    "repeated_questions": [
+      {
+        "question_name": "2 medium level leetcode questions",
+        "category": "Coding Interview",
+        "frequency_score": 8,
+        "difficulty": "Medium",
+        "source_count": 10
+      },
+      {
+        "question_name": "Java basics",
+        "category": "Technical Interview",
+        "frequency_score": 6,
+        "difficulty": "Easy",
+        "source_count": 5
+      }
+    ]
+  },
+  "resume_analysis": {
+    "match_score": 55.0,
+    "matching_skills": [
+      "Python",
+      "SQL",
+      "Pandas (implied from data science and analytics projects)",
+      "AI/LLM tools and APIs exposure through academic projects or personal work"
+    ],
+    "missing_skills": [
+      "Specific experience with HR data models in dbt",
+      "Designing interactive dashboards in Plotly Dash",
+      "Developing AI-driven HR analytics solutions using text-to-SQL, RAG, and automated narrative generation",
+      "Applying NLP and machine learning techniques to analyze employee survey feedback"
+    ],
+    "recommended_projects": [
+      "A project involving HR data analysis or creating models related to hiring funnel, attrition, engagement, and headcount metrics",
+      "Building a dashboard using Plotly Dash for visualizing workforce trends or analytics",
+      "Developing an AI-driven solution that uses text-to-SQL or RAG techniques in the context of HR or employee feedback analysis"
+    ],
+    "resume_gaps": [
+      "Gaps between start and end dates of education (e.g., June 2023 – July 2027)",
+      "Lack of direct experience in HR data modeling, analytics reporting, and AI-driven solutions for HR problems",
+      "Projects do not clearly demonstrate alignment with the specific requirements of the intern GEN-AI position at Swiggy"
+    ]
+  }
+}
